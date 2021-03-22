@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "D10wqdlFWgNcvhhk7Nd8+VDhk50tU+jdkyWgUjZPPc/THekDFZyXxzKHuxNkgkk3kGQG+jRkZ4SZ1wq6yzhrwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misu\\Documents\\CNA\\Tema1\\Client\\PersonPrinterClient\\PersonPrinterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misu\\.nuget\\packages\\google.protobuf\\3.15.6\\google.protobuf.3.15.6.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\grpc.core.api\\2.36.1\\grpc.core.api.2.36.1.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\grpc.net.client\\2.36.0\\grpc.net.client.2.36.0.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\grpc.net.common\\2.36.0\\grpc.net.common.2.36.0.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\grpc.tools\\2.36.1\\grpc.tools.2.36.1.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Misu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

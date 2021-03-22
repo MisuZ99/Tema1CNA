@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Printer.cs \
+obj\Debug\net5.0\Protos/PrinterGrpc.cs: Protos/printer.proto

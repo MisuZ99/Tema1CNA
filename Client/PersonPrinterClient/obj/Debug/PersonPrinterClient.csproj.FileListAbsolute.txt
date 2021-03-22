@@ -1,0 +1,2 @@
+C:\Users\Misu\Documents\CNA\Tema1\Client\PersonPrinterClient\obj\Debug\PersonPrinterClient.csprojAssemblyReference.cache
+C:\Users\Misu\Documents\CNA\Tema1\Client\PersonPrinterClient\obj\Debug\PersonPrinterClient.csproj.CoreCompileInputs.cache

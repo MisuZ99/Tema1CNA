@@ -1,0 +1,5 @@
+C:\Users\Misu\Documents\CNA\Tema1\Server\PersonService\PersonService\obj\Debug\netcoreapp3.1\PersonService.csprojAssemblyReference.cache
+C:\Users\Misu\Documents\CNA\Tema1\Server\PersonService\PersonService\obj\Debug\netcoreapp3.1\PersonService.AssemblyInfoInputs.cache
+C:\Users\Misu\Documents\CNA\Tema1\Server\PersonService\PersonService\obj\Debug\netcoreapp3.1\PersonService.AssemblyInfo.cs
+C:\Users\Misu\Documents\CNA\Tema1\Server\PersonService\PersonService\obj\Debug\netcoreapp3.1\PersonService.csproj.CoreCompileInputs.cache
+C:\Users\Misu\Documents\CNA\Tema1\Server\PersonService\PersonService\obj\Debug\netcoreapp3.1\PersonService.MvcApplicationPartsAssemblyInfo.cache

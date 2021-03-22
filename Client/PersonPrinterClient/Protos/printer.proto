@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "PersonPrinterClient";
+
+package printer;
+
+
+service Printer {
+ 
+  rpc PrintPerson (PrintRequest) returns (PrintReply);
+}
+
+
+message PrintRequest {
+  string name = 1;
+  string CNP=2;
+}
+
+
+message PrintReply {
+  string m_Name=1;
+  string m_Gender=2;
+  string m_Age=3;
+}
